@@ -1,0 +1,12 @@
+Esta pasta está reservada para fotografias corporativas reais da Galcont
+(escritório, equipe, ambiente de atendimento), a serem fornecidas
+posteriormente pelo cliente.
+
+Por enquanto, o site utiliza apenas elementos gráficos originais (linhas e
+curvas douradas inspiradas no símbolo da marca) no lugar de fotografias,
+para não representar a empresa com imagens de banco de imagens que não
+correspondem à realidade da Galcont.
+
+Ao adicionar fotos reais aqui, atualize os locais indicados no index.html
+com comentários "<!-- imagem corporativa -->" (seção Hero) para inserir as
+tags <img>/<picture> correspondentes.
